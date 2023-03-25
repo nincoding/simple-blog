@@ -1,0 +1,17 @@
+import url from 'https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap';
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}

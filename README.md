@@ -13,4 +13,10 @@ npm i -g json-server
 // data 폴더로 위치 이동 후 서버 실행
 cd data
 json-server --watch data.json --port 3001
+
+// 실제 React Web App을 개발 모드로 브라우저에서 실행
+npm run start
+
+// 스타일드 컴포넌트 설치
+npm i -D styled-components
 ```
